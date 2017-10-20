@@ -2,7 +2,7 @@
 
 > [PL]
 
-Mailing jest to projekt warsztatów, który był wykonany podczas kursu programowania w **CoderLab**.
+Mailing jest to projekt z warsztatów, który był wykonany podczas kursu programowania w **CoderLab**.
 Projekt jest oparty na technice HTML.
 
 **Ten projekt jest tylko wersji desktopowej**
