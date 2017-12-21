@@ -55,7 +55,7 @@ Project is created in technology HTML
 ```
 
 
-## View the projekt online: https://arekscibior.github.io/Mailing/
+## View the project online: https://arekscibior.github.io/Mailing/
 
 
 ## Author:
