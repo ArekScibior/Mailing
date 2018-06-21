@@ -1,5 +1,6 @@
 ## Mailing
 
+
 > [PL]
 
 Mailing jest to projekt z warsztatów, który był wykonany podczas kursu programowania w **CoderLab**.
